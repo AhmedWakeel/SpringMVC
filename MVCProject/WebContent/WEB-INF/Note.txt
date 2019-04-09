@@ -1,0 +1,11 @@
+@PathVariable()
+@RequestParam()
+@PathVariable()
+
+
+BindingResult in the metho argument to save all the error which are thrown while binding the form data with Model object	
+
+@Valid
+@Size
+JSR  Java Specification Request
+
